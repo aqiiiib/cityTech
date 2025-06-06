@@ -749,7 +749,7 @@ form.the-searchform button {
 }
 .the-search-wrap .the-ajax-loading {
     display: none;
-    background: transparent url("../images/loading.gif") no-repeat center center;
+    background: transparent url("https://aqiiiib.github.io/cityTech/wp-content/plugins/envo-extra/images/loading.gif") no-repeat center center;
     background-size: 100%;
     position: absolute;
     top: 50%;

@@ -293,7 +293,7 @@ table.compare-list  tr.stock td.out-of-stock {
 }
 table.compare-list.with-stock-icons tr.stock td.in-stock span.availability-label:before {
     content: '';
-    background: url('../images/green-check.svg') no-repeat center center;
+    background: url('https://aqiiiib.github.io/cityTech/wp-content/plugins/yith-woocommerce-compare/assets/images/green-check.svg') no-repeat center center;
     font-size: 20px;
     display: block;
     height: 30px;
@@ -422,7 +422,7 @@ table.compare-list  tr.price del {
     cursor: pointer;
     border: 1px solid #e7e7e7;
     text-align: center;
-    background: #ffffff url( '../images/nav-arrow.png' ) no-repeat;
+    background: #ffffff url( 'https://aqiiiib.github.io/cityTech/wp-content/plugins/yith-woocommerce-compare/assets/images/nav-arrow.png' ) no-repeat;
     cursor: pointer;
 }
 #yith-woocompare-related .related-slider-nav div.related-slider-nav-prev {
